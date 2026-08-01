@@ -6,7 +6,16 @@ I build spatial analysis workflows that turn public environmental data into some
 
 Currently managing the Section 208 Areawide Water Quality Management Plan at Lake Erie West Regional Council, covering five counties in Northwest Ohio.
 
-📍 [Portfolio](https://kkanjin.github.io/KingsleyKanjin/) · [LinkedIn](https://www.linkedin.com/in/kingsley-kanjin-9bb368217) · kanjinkingsley3@gmail.com
+EDUCATION
+---
+**M.A. Geography** — The University of Toledo
+
+**Graduate Certificate, GIS and Applied Geography** — The University of Toledo
+
+**B.Sc. Geography & Regional Planning** — University of Cape Coast, Ghana
+
+
+📍 [Portfolio](https://kkanjin.github.io/KingsleyKanjin/) · [LinkedIn](https://www.linkedin.com/in/kingsley-kanjin-9bb368217) · kanjinkingsley3@gmail.com . [Publications](https://scholar.google.com/citations?hl=en&user=hM_QFV0AAAAJ)
 
 ---
 
@@ -54,10 +63,11 @@ Step-by-step walkthrough for computing spatial accessibility using the Two-Step 
 
 ---
 
-## Background
+## Sample Programming Codes
 
-**M.A. Geography (GIS focus)** — The University of Toledo
-**Graduate Certificate, GIS and Applied Geography** — The University of Toledo
-**B.Sc. Geography & Regional Planning** — University of Cape Coast, Ghana
+| Repository | Description | Language |
+|---|---|---|
+| [repo-name](https://github.com/kkanjin/repo-name) | One line on what it does | Python |
+| [repo-name](https://github.com/kkanjin/repo-name) | One line on what it does | R |
+| [repo-name](https://github.com/kkanjin/repo-name) | One line on what it does | Python |
 
-Published in *Applied Geography* on spatial accessibility to potable water in Ghana, using 2SFCA and OD cost matrix network analysis.
