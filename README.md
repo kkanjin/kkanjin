@@ -65,9 +65,9 @@ Step-by-step walkthrough for computing spatial accessibility using the Two-Step 
 
 ## Sample Programming Codes
 
-| Repository | Description | Language |
-|---|---|---|
-| [repo-name](https://github.com/kkanjin/repo-name) | Python |
-| [repo-name](https://github.com/kkanjin/repo-name) | R |
-| [repo-name](https://github.com/kkanjin/AOD-GEE-Code-) | Python |
+| Repository| Language |
+|---|---|
+| [Python Codes for Spatial Analysis](https://github.com/kkanjin/Python-Codes) | Python |
+| [All R Codes files](https://github.com/kkanjin/repo-name) | R |
+| [Google Earth Engine Projects](https://github.com/kkanjin/AOD-GEE-Code-) | Python |
 
