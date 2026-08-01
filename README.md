@@ -67,7 +67,7 @@ Step-by-step walkthrough for computing spatial accessibility using the Two-Step 
 
 | Repository | Description | Language |
 |---|---|---|
-| [repo-name](https://github.com/kkanjin/repo-name) | One line on what it does | Python |
-| [repo-name](https://github.com/kkanjin/repo-name) | One line on what it does | R |
-| [repo-name](https://github.com/kkanjin/repo-name) | One line on what it does | Python |
+| [repo-name](https://github.com/kkanjin/repo-name) | Python |
+| [repo-name](https://github.com/kkanjin/repo-name) | R |
+| [repo-name](https://github.com/kkanjin/AOD-GEE-Code-) | Python |
 
