@@ -59,7 +59,7 @@ Step-by-step walkthrough for computing spatial accessibility using the Two-Step 
 |---|---|
 | **GIS** | ArcGIS Pro/Online, ArcPy, ModelBuilder, Field Maps, Survey123, QGIS |
 | **Programming** | Python (GeoPandas, rasterio, scikit-learn, Shapely), R, SQL, PostGIS |
-| **Modelling** | Random Forest, SMOTE, multi-criteria suitability, SWAT+, HEC-RAS, WhiteboxTools |
+| **Modelling** | Random Forest, multi-criteria suitability, Watershed Modeling (SWAT+, HEC-RAS) |
 | **Remote sensing** | Google Earth Engine, ENVI, Pix4Dmapper, LiDAR processing |
 | **Delivery** | ArcGIS Dashboards, Experience Builder, Folium, Leaflet, Power BI |
 
