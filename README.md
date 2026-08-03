@@ -74,5 +74,7 @@ Step-by-step walkthrough for computing spatial accessibility using the Two-Step 
 | [Google Earth Engine Projects](https://github.com/kkanjin/AOD-GEE-Code-) | Python |
 
 ---
+
 ##GIS Projects Powerpoint Presentations 
+
 [Presentations](https://kkanjin.github.io/Presentation-slides/)
