@@ -75,6 +75,6 @@ Step-by-step walkthrough for computing spatial accessibility using the Two-Step 
 
 ---
 
-GIS Projects Powerpoint Presentations 
+### GIS Projects Powerpoint Presentations 
 
 [Presentations](https://kkanjin.github.io/Presentation-slides/)
