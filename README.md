@@ -6,7 +6,7 @@ I build spatial analysis workflows that turn public environmental data into some
 
 Currently managing the Section 208 Areawide Water Quality Management Plan at Lake Erie West Regional Council, covering five counties in Northwest Ohio.
 
-Note: Please click on the highlighted items to explore it content.
+Note: Please click on the highlighted items to view and explore its content.
 
 EDUCATION
 ---
