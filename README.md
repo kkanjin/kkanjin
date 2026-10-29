@@ -2,7 +2,7 @@
 
 **GIS Analyst · Water Quality Planner** — Toledo, Ohio
 
-I build spatial analysis workflows that turn public environmental data into something people can act on. Most of my work sits at the intersection of GIS, Python automation, and water resources — watershed modelling, contamination risk prediction, and infrastructure vulnerability assessment.
+I build spatial analysis workflows that turn public environmental data into something people can act on. Most of my work sits at the intersection of GIS, Python automation, and water resources — watershed modelling, contamination risk prediction, and sanitary and water infrastructure vulnerability assessment.
 
 Currently managing the Section 208 Areawide Water Quality Management Plan at Lake Erie West Regional Council, covering five counties in Northwest Ohio.
 
