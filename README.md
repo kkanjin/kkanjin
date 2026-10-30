@@ -31,7 +31,7 @@ Random Forest classifier predicting PFAS contamination risk across all **1,541 O
 
 ---
 
-### [Lucas County Infrastructure Vulnerability Assessment](https://kkanjin.github.io/KingsleyKanjin/lucas_county_vulnerability.html)
+### [Lucas County Infrastructure Vulnerability Assessment](https://kkanjin.github.io/GIS_portfolio/lucas_county_vulnerability.html)
 Applied the IPCC vulnerability framework — exposure, sensitivity, adaptive capacity — to county bridges using FEMA National Flood Hazard Layer, the National Bridge Inventory, and TIGER/Line road data. Produces a defensible relative ranking for maintenance and resilience prioritisation.
 
 `ArcGIS Pro` `GeoPandas` `Folium` `FEMA NFHL` `NBI`
