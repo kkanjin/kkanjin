@@ -17,13 +17,13 @@ EDUCATION
 **B.Sc. Geography & Regional Planning** — University of Cape Coast, Ghana
 
 
-📍 [Portfolio](https://kkanjin.github.io/KingsleyKanjin/) · [LinkedIn](https://www.linkedin.com/in/kingsley-kanjin-9bb368217) · kanjinkingsley3@gmail.com . [Publications](https://scholar.google.com/citations?hl=en&user=hM_QFV0AAAAJ)
+ [Portfolio](https://kkanjin.github.io/GIS_portfolio/) · [LinkedIn](https://www.linkedin.com/in/kingsley-kanjin-9bb368217) · kanjinkingsley3@gmail.com . [Publications](https://scholar.google.com/citations?hl=en&user=hM_QFV0AAAAJ)
 
 ---
 
 ## Selected Projects
 
-### 🧪 [Ohio PFAS Contamination Risk Prediction](https://github.com/kkanjin/Ohio-PFAS-Prediction)
+### [Ohio PFAS Contamination Risk Prediction](https://github.com/kkanjin/Ohio-PFAS-Prediction)
 Random Forest classifier predicting PFAS contamination risk across all **1,541 Ohio HUC-12 subwatersheds**, trained on 1.9 million EPA UCMR5 monitoring records joined against DoD military sites and EPA TRI facilities. Identified 5 high-risk and 52 moderate-risk watersheds, plus 14 priority watersheds with no current monitoring.
 
 `Python` `scikit-learn` `GeoPandas` `SMOTE` `Folium`
@@ -31,14 +31,14 @@ Random Forest classifier predicting PFAS contamination risk across all **1,541 O
 
 ---
 
-### 🌉 [Lucas County Infrastructure Vulnerability Assessment](https://kkanjin.github.io/KingsleyKanjin/lucas_county_vulnerability.html)
+### [Lucas County Infrastructure Vulnerability Assessment](https://kkanjin.github.io/KingsleyKanjin/lucas_county_vulnerability.html)
 Applied the IPCC vulnerability framework — exposure, sensitivity, adaptive capacity — to county bridges using FEMA National Flood Hazard Layer, the National Bridge Inventory, and TIGER/Line road data. Produces a defensible relative ranking for maintenance and resilience prioritisation.
 
 `ArcGIS Pro` `GeoPandas` `Folium` `FEMA NFHL` `NBI`
 
 ---
 
-### 💧 [Ohio Water Quality Monitoring Dashboard](https://github.com/kkanjin/ohio-wq-dashboard)
+### [Ohio Water Quality Monitoring Dashboard](https://github.com/kkanjin/ohio-wq-dashboard)
 Coverage and gap assessment across 44 Ohio HUC-8 watersheds, mapping 814 monitoring locations from eight organisations and identifying five watersheds with zero monitoring coverage.
 
 `ArcGIS Pro` `Python` `Leaflet`
@@ -46,7 +46,7 @@ Coverage and gap assessment across 44 Ohio HUC-8 watersheds, mapping 814 monitor
 
 ---
 
-### 📐 [2SFCA Spatial Accessibility Tutorial](https://github.com/kkanjin/2SFCA-Spatial-Accessibility-Tutorial)
+### [2SFCA Spatial Accessibility Tutorial](https://github.com/kkanjin/2SFCA-Spatial-Accessibility-Tutorial)
 Step-by-step walkthrough for computing spatial accessibility using the Two-Step Floating Catchment Area method in ArcGIS Pro, with a worked example on access to pediatric dental care in Washington, DC.
 
 `ArcGIS Pro` `2SFCA` `Network Analysis`
